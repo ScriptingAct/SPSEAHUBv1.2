@@ -48,6 +48,6 @@ local Tab = Window:CreateTab("Blade Ball", 4483362458) -- Title, Image
 local Button = Tab:CreateButton({
    Name = "Auto Parry 1 Click",
    Callback = function()
-   loadstring(game:HttpGet('https://pastebin.com/raw/eGbGR98W'))()
+   loadstring(game:HttpGet('https://pastebin.com/raw/wCcsrmUC'))()
    end,
 })
